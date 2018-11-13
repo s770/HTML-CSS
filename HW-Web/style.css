@@ -1,0 +1,77 @@
+Giving our navbar some padding and a background color
+.navbar {
+    padding: 10px;
+    background: white;
+}
+
+.navbar-brand {
+    background-color: turquoise;
+}
+
+.active {
+    background-color: white;
+}
+
+.cities {
+  background-color: gray;
+  margin: 20px;
+  padding: 20px;
+}
+
+.grid {
+  float: center;
+  width: 25%;
+  padding: 5px;
+}
+
+#data_pic {
+  display: block;
+  width: 15vw;
+  height: 10vw;
+  float: left;
+}
+
+.flex_container {
+  display: flex;
+  align-self: center;
+  overflow: hidden;
+  flex-wrap: wrap;
+}
+
+.flex_container img {
+  display: block;
+  width: 15vw;
+  height: 10vw;
+  
+}
+
+/* .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  Create four equal columns that sits next to each other */
+    /* { 
+     flex: 25%; 
+     max-width: 25%;
+    padding: 0 4px;
+  }
+   */
+  /* .column img { */
+    /* margin-top: 8px;
+    vertical-align: middle; */
+
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  /* @media screen and (max-width: 800px) { */
+    /* .column { */
+      /* flex: 50%;
+      max-width: 50%; */
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  /* @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    } */
