@@ -14,8 +14,8 @@ Giving our navbar some padding and a background color
 
 .cities {
   background-color: gray;
-  margin: 20px;
-  padding: 20px;
+  /* margin: 20px; */
+  /* padding: 20px; */
 }
 
 .grid {
